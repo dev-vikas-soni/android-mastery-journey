@@ -26,18 +26,20 @@ The repository is structured around three parallel tracks:
 - Keep notes concise, structured, and linked to source material.
 
 ## Repository Structure
-This repository now follows a three-track model for long-term growth:
-- [knowledge/](knowledge/) for theory, documentation, and deep study notes
-- [labs/](labs/) for hands-on experiments, weekly practice, and retrospectives
-- [artifacts/](artifacts/) for blogs, talks, diagrams, presentations, and media
+This repository now follows a scalable domain-based architecture for long-term growth:
+- [knowledge/](knowledge/) for domain-focused theory, mental models, internals, and references
+- [labs/](labs/) for concept-based experiments, implementation studies, and findings
+- [artifacts/](artifacts/) for articles, talks, diagrams, conference notes, and book notes
 
 Supporting areas:
+- [playground/](playground/) for exploratory prototypes and experiments
+- [snippets/](snippets/) for reusable code patterns and examples
+- [interview/](interview/) for interview preparation material
+- [templates/](templates/) for reusable writing scaffolds
+- [scripts/](scripts/) for automation and maintenance helpers
 - [roadmap/](roadmap/) for the long-term learning plan
 - [resources/](resources/) for curated references and reading lists
 - [progress/](progress/) for weekly updates and milestone tracking
-- [templates/](templates/) for reusable writing scaffolds
-- [interview/](interview/) for interview preparation material
-- [snippets/](snippets/) and [scripts/](scripts/) for reusable examples and automation
 
 ## Weekly Progress
 Use [PROGRESS.md](PROGRESS.md) to track weekly progress, learning outcomes, labs, books, talks, and next goals.
@@ -52,16 +54,16 @@ Curated links and references live in [RESOURCES.md](RESOURCES.md).
 Planned and active project work should be documented under the relevant topic folders and labs.
 
 ## Conference Talks
-Conference and event notes are organized under [conference-notes/](conference-notes/).
+Conference and event notes are organized under [artifacts/conference-notes/](artifacts/conference-notes/).
 
 ## Open Source Contributions
-Open source study notes and contribution references can be expanded under [docs/12-open-source/](docs/12-open-source/).
+Open source study notes and contribution references can be expanded under [knowledge/open-source/](knowledge/open-source/).
 
 ## Books
-Book notes should be stored under [book-notes/](book-notes/).
+Book notes should be stored under [artifacts/book-notes/](artifacts/book-notes/).
 
 ## Articles
-Draft and published articles belong under [articles/](articles/).
+Draft and published articles belong under [artifacts/articles/](artifacts/articles/).
 
 ## Contact
 Use the repository issues and discussion spaces for questions, suggestions, and improvements.

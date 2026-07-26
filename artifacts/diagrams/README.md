@@ -1,20 +1,13 @@
 # Diagrams
 
 ## Purpose
-This directory exists to keep the Android Mastery Journey knowledge base organized, searchable, and easy to grow over time.
+This section stores public-facing work that emerges from the learning and experimentation process.
 
 ## What belongs here
-- Core notes and references
-- Related examples, experiments, and write-ups
-- Future additions as the learning path expands
-
-## Naming convention
-Use lowercase names with hyphens for multi-word topics. Keep names descriptive and consistent with the broader repository structure.
-
-## Examples
-- docs/00-foundations
-- labs/week-01
-- templates/article.md
+- Written articles and summaries
+- Talk outlines, slides, and notes
+- Diagrams and visual explanations
+- Conference and book notes
 
 ## Future expectations
-This directory will evolve as new topics, labs, articles, and reference material are added.
+This area should become the public portfolio layer of the repository as the body of work grows.

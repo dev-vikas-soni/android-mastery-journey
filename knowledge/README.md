@@ -1,20 +1,31 @@
 # Knowledge
 
 ## Purpose
-This track holds the conceptual foundation of the journey: frameworks, internals, architecture, and technical writing.
+This directory is the long-term knowledge base for the repository. It holds domain-focused notes, mental models, platform references, and deep-dive writing.
 
 ## What belongs here
-- Topic-based study notes and reference material
-- Deep dives into Android internals, Kotlin, Compose, performance, and systems design
-- Content meant to remain searchable and reusable over time
+- Theory and conceptual understanding
+- Platform internals and implementation details
+- Interview prep and reference material
+- Structured notes that can evolve independently over time
 
-## Naming convention
-Use descriptive lowercase names with hyphens for multi-word topics and keep document structure consistent.
+## Domain organization
+The repository now organizes knowledge by engineering domain:
+- [android-framework/](android-framework/)
+- [kotlin/](kotlin/)
+- [compose/](compose/)
+- [architecture/](architecture/)
+- [performance/](performance/)
+- [concurrency/](concurrency/)
+- [networking/](networking/)
+- [storage/](storage/)
+- [security/](security/)
+- [testing/](testing/)
+- [system-design/](system-design/)
+- [open-source/](open-source/)
+- [career/](career/)
 
-## Examples
-- [knowledge/docs/00-foundations/](knowledge/docs/00-foundations/)
-- [knowledge/docs/01-android-framework/](knowledge/docs/01-android-framework/)
-- [knowledge/docs/11-system-design/](knowledge/docs/11-system-design/)
-
-## Future expectations
-This track will expand as more theory, references, and long-form notes are produced.
+## Relationship to other tracks
+- Use [labs/](../labs/) for experiments and hands-on work.
+- Use [artifacts/](../artifacts/) for public-facing writing and talks.
+- Use [playground/](../playground/) for prototypes and experiments.

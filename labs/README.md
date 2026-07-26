@@ -1,20 +1,25 @@
 # Labs
 
 ## Purpose
-This track captures the hands-on side of the journey: experiments, implementation work, and weekly reflections.
+This directory holds focused technical experiments and implementation studies that turn theory into practice.
 
 ## What belongs here
-- Weekly lab notes and implementation write-ups
-- Learning summaries and retrospectives
-- Small experiments that reinforce the knowledge track
+- Problem-driven labs for platform concepts
+- Reproducible experiments and implementation notes
+- Evidence-based findings and follow-up improvements
 
-## Naming convention
-Use week-based folders such as week-00, week-01, and keep lab files consistent across each week.
+## Organization
+The lab structure is concept-based rather than week-based:
+- [binder/](binder/)
+- [activity-lifecycle/](activity-lifecycle/)
+- [compose-runtime/](compose-runtime/)
+- [perfetto/](perfetto/)
+- [baseline-profiles/](baseline-profiles/)
+- [coroutines/](coroutines/)
+- [flow/](flow/)
+- [memory/](memory/)
+- [custom-view/](custom-view/)
+- [rendering/](rendering/)
 
-## Examples
-- [labs/week-00/](labs/week-00/)
-- [labs/week-01/](labs/week-01/)
-- [labs/weekly/](labs/weekly/)
-
-## Future expectations
-This track will grow as more practical exercises, prototypes, and milestone reviews are added.
+## Relationship to knowledge
+Use [knowledge/](../knowledge/) for the conceptual foundation and this folder for hands-on exploration.
